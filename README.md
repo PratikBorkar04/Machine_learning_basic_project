@@ -16,3 +16,5 @@ add Files into git repository through local terminal :- '''git add {File name}''
 commit this created files :- '''git commit -m "xyz"'''
 
 push git files to the repositories :-''' git push origin main'''
+
+git diff command
