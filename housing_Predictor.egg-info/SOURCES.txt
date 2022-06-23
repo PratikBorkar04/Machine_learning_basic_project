@@ -1,0 +1,7 @@
+README.md
+setup.py
+housing/__init__.py
+housing_Predictor.egg-info/PKG-INFO
+housing_Predictor.egg-info/SOURCES.txt
+housing_Predictor.egg-info/dependency_links.txt
+housing_Predictor.egg-info/top_level.txt

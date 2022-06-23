@@ -21,6 +21,4 @@ git diff command
 
 To set pipeline in heroku we need 3 information
 
-1. HEROKU_EMAIL = pratikab01@gmail.com
-2. HEROKU_API_KEY = c7bfb7ff-9e63-46a8-a5ef-23cb82096f67
-3. HEROKU_APP_NAME =  ml-regression-application1
+create setup file :- python setup.py install
