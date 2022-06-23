@@ -1,8 +1,8 @@
 # Machine_learning_basic_project
 Clone git files
-"""
+'''
 git clone
-"""
+'''
 create environment  '''conda create -p venv python == 3.7 -y'''
 
 Activate environment  '''conda activate venv/
