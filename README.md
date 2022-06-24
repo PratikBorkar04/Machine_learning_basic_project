@@ -19,6 +19,8 @@ push git files to the repositories :-''' git push origin main'''
 
 git diff command
 
+-e is use to install all the housing packages 
+
 To set pipeline in heroku we need 3 information
 
 create setup file :- python setup.py install
