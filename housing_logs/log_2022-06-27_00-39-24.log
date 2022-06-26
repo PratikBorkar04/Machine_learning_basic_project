@@ -1,0 +1,6 @@
+[2022-06-27 00:39:24,706] werkzeug - WARNING -  * Debugger is active!
+[2022-06-27 00:39:24,722] werkzeug - INFO -  * Debugger PIN: 621-246-832
+[2022-06-27 00:39:33,595] root - INFO - Error occured in script: [C:\Users\HP\Machine_learning_basic_project\app.py] at line number: [15] error message: [We are generating custom exception]
+[2022-06-27 00:39:33,596] root - INFO - Pasing logging module
+[2022-06-27 00:39:33,597] werkzeug - INFO - 127.0.0.1 - - [27/Jun/2022 00:39:33] "GET / HTTP/1.1" 200 -
+[2022-06-27 00:39:33,737] werkzeug - INFO - 127.0.0.1 - - [27/Jun/2022 00:39:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
