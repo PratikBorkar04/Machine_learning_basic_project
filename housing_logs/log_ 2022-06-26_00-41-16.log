@@ -1,0 +1,3 @@
+[2022-06-26 00:41:16,648] werkzeug - WARNING -  * Debugger is active!
+[2022-06-26 00:41:16,680] werkzeug - INFO -  * Debugger PIN: 621-246-832
+[2022-06-26 00:41:22,076] werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\machine_learning_basic_project\\housing\\exception\\__init__.py', reloading

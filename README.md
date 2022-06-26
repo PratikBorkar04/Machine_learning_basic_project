@@ -9,7 +9,7 @@ Activate environment  '''conda activate venv/
 '''
 requirements:- '''pip install -r requirements.txt'''
 
-create flask file 
+create flask file  
 
 add Files into git repository through local terminal :- '''git add {File name}'''
 
@@ -20,6 +20,9 @@ push git files to the repositories :-''' git push origin main'''
 git diff command
 
 -e is use to install all the housing packages 
+
+fn + f12 use to check basic info of any function 
+
 
 To set pipeline in heroku we need 3 information
 
