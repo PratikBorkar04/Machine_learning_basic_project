@@ -17,8 +17,6 @@ push git files to the repositories :-''' git push origin main'''
 
 -e is use to install all the housing packages 
 
-fn + f12 use to check basic info of any function 
-
 To set pipeline in heroku we need 3 information
 
 create setup file :- python setup.py install
