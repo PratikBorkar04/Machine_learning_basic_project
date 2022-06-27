@@ -18,5 +18,3 @@ push git files to the repositories :-''' git push origin main'''
 -e is use to install all the housing packages 
 
 create setup file :- python setup.py install
-
-To check current origin :- git remote
