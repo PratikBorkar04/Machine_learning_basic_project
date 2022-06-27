@@ -23,7 +23,8 @@ git diff command
 
 fn + f12 use to check basic info of any function 
 
-
 To set pipeline in heroku we need 3 information
 
 create setup file :- python setup.py install
+
+To check current origin :- git remote
